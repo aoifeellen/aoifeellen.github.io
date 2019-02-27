@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Neucha:400);
 
 
 
@@ -21,13 +22,13 @@ body {
 }
 .display-1 {
   font-family: 'Rubik', sans-serif;
-  font-size: 4.25rem;
+  font-size: 5.2rem;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 6.8rem;
+  font-size: 8.32rem;
 }
 .display-2 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Neucha', handwriting;
   font-size: 3rem;
 }
 .display-2 > .mbr-iconfont {
@@ -41,7 +42,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Neucha', handwriting;
   font-size: 1.5rem;
 }
 .display-5 > .mbr-iconfont {
@@ -61,9 +62,9 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 3.4rem;
-    font-size: calc( 2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (2.1374999999999997rem + (4.25 - 2.1374999999999997) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 4.16rem;
+    font-size: calc( 2.4699999999999998rem + (5.2 - 2.4699999999999998) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (2.4699999999999998rem + (5.2 - 2.4699999999999998) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.4rem;
@@ -1387,32 +1388,28 @@ body {
   padding-bottom: 90px;
   background-image: url("../../../assets/images/mbr-1920x1335.jpg");
 }
-.cid-rjjr6Uh5qp {
+.cid-rjjvg11ZNw {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
-.cid-rjjr6Uh5qp .line {
-  background-color: #149dcc;
-  color: #149dcc;
+.cid-rjjvg11ZNw .line {
+  background-color: #ff7f9f;
+  color: #ff7f9f;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
-.cid-rjjr6Uh5qp .section-text {
+.cid-rjjvg11ZNw .section-text {
   padding: 2rem 0;
-  color: #0f7699;
 }
-.cid-rjjr6Uh5qp .inner-container {
+.cid-rjjvg11ZNw .inner-container {
   margin: 0 auto;
 }
 @media (max-width: 768px) {
-  .cid-rjjr6Uh5qp .inner-container {
+  .cid-rjjvg11ZNw .inner-container {
     width: 100% !important;
   }
-}
-.cid-rjjr6Uh5qp .section-text B {
-  color: #ff3366;
 }
 .cid-rjjr8lKhok {
   padding-top: 90px;
@@ -1453,6 +1450,20 @@ body {
 .cid-rjjr8lKhok .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-rjjvodsCmg {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background8.jpg");
+}
+.cid-rjjvodsCmg .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-rjjvodsCmg H2 {
+  color: #232323;
+}
+.cid-rjjvodsCmg H3 {
+  color: #232323;
 }
 .cid-rjjqWfQKvu .navbar {
   background: #ffffff;

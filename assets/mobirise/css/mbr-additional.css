@@ -1439,6 +1439,7 @@ body {
 }
 .cid-rjjr8lKhok .mbr-text {
   color: #767676;
+  text-align: left;
 }
 .cid-rjjr8lKhok .card-wrapper {
   height: 100%;
@@ -1450,6 +1451,9 @@ body {
 .cid-rjjr8lKhok .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-rjjr8lKhok .card-title {
+  text-align: left;
 }
 .cid-rjjvodsCmg {
   padding-top: 90px;
